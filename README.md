@@ -20,4 +20,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [G
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
