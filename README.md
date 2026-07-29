@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [G
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -28,8 +29,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [G
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
