@@ -8,12 +8,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [G
 | ------- |
 | [0001-two-sum](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0014-longest-common-prefix) |
+| [0560-subarray-sum-equals-k](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -38,4 +40,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [G
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0242-valid-anagram) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
