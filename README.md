@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [G
 | ------- |
 | [0001-two-sum](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0048-rotate-image) |
 | [0560-subarray-sum-equals-k](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
@@ -44,4 +45,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [G
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0560-subarray-sum-equals-k) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
