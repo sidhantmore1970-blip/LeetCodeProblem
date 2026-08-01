@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [G
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0344-reverse-string) |
 ## Trie
 |  |
 | ------- |
@@ -83,4 +84,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [G
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0231-power-of-two) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
