@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [G
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0509-fibonacci-number) |
