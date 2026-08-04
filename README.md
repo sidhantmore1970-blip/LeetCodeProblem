@@ -14,12 +14,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [G
 | [0560-subarray-sum-equals-k](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0877-stone-game) |
+| [3731-find-missing-elements](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0560-subarray-sum-equals-k) |
+| [3731-find-missing-elements](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -52,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [G
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0242-valid-anagram) |
+| [3731-find-missing-elements](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
