@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [G
 | ------- |
 | [0001-two-sum](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0066-plus-one) |
@@ -111,4 +112,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [G
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0877-stone-game) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
