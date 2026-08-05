@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [G
 | [0009-palindrome-number](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0877-stone-game) |
@@ -118,4 +119,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [G
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
