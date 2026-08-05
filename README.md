@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [G
 | ------- |
 | [0001-two-sum](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0014-longest-common-prefix) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0053-maximum-subarray) |
@@ -115,5 +116,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [G
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
