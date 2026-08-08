@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [G
 | [0048-rotate-image](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0136-single-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0877-stone-game) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [G
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sidhantmore1970-blip/LeetCodeProblem/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
