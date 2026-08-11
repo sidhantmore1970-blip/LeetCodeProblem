@@ -1,2 +1,2 @@
 /* Write your T-SQL query statement below */
-select p.firstName , p.lastNamE,a.city,a.state from Person p left join Address a on p.personId=a.personId
+select p.firstname as firstname , p.lastname as lastname , a.city as city , a.state from person p left join Address a on p.personid = a.personid
